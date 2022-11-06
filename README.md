@@ -1,8 +1,8 @@
-- 👋 Hi, I’m CloudCoded
-- 👀 I’m interested in Software development and it's tools
-- 🌱 I’m currently learning C programming and ReactJs
-- 💞️ I’m looking to collaborate on Frontend and Mobile app development
-- 📫 How to reach me abdulazeezakindolapo@gmail.com(07039954623)
+- 👋 A frontend Web/Mobile Developer and also in training to be a SWE @Alxafrica 
+- 👀 I'm interesting in adapting to new world technologies and utitlizing them
+- 🌱 I'm based in Nigeria and I’m currently learning to be a certified Software Engineer
+- 💞️ I’m looking to collaborate on projects relating to programming, feel free to ask me about tourism related, Unix/Linux machine and programming languages
+- 📫 How to reach me: abdulazeezakindolapo@gmail.com
 
 <!---
 CloudCoded/CloudCoded is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
