@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdul</h1>
-<h3 align="center">A passionate frontend developer from West Africa</h3>
+<h3 align="center">A passionate software developer who loves to solve user's problems and open to daily learrning</h3>
+<h3 align="center">At leisure, I spend time learning new technologies, writing well detailed technical articles, and finding better ways to optimize code for better performance.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cloudcoded&label=Profile%20views&color=0e75b6&style=flat" alt="cloudcoded" /> </p>
 
