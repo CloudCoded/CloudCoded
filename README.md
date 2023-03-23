@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/olatechcloud" target="blank"><img src="https://img.shields.io/twitter/follow/olatechcloud?logo=twitter&style=for-the-badge" alt="olatechcloud" /></a> </p>
 
-- 🔭 I’m currently working on [30 Days JavaScript Challenge](https://github.com/CloudCoded/30-Days-Of-JavaScript)
+- 🔭 I’m currently working on an [AirBnB Project](https://github.com/CloudCoded/AirBnB_Clone)
 
 - 🌱 I’m currently learning **ReactJS,TailwindCSS**
 
