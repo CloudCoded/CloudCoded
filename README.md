@@ -8,15 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/olatechcloud" target="blank"><img src="https://img.shields.io/twitter/follow/olatechcloud?logo=twitter&style=for-the-badge" alt="olatechcloud" /></a> </p>
 
-- 🔭 I’m currently working on an [AirBnB Project](https://github.com/CloudCoded/AirBnB_Clone)
-
 - 🌱 I’m currently learning **ReactJS,TailwindCSS,TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://cloudcoded.github.io/my_portfolio/](https://cloudcoded.github.io/my_portfolio/)
+- 👨‍💻 [**My Portfolio**](https://cloudcoded.github.io/my_portfolio/)
 
-- 📝 I regularly write articles on [https://cloudcoded.hashnode.dev/](https://cloudcoded.hashnode.dev/)
+- 📝 [**My Articles**](https://cloudcoded.hashnode.dev/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **abdulazeezakindolapo@gmail.com**
 
