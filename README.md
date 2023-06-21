@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on an [AirBnB Project](https://github.com/CloudCoded/AirBnB_Clone)
 
-- 🌱 I’m currently learning **ReactJS,TailwindCSS**
+- 🌱 I’m currently learning **ReactJS,TailwindCSS,TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://cloudcoded.github.io/my_portfolio/](https://cloudcoded.github.io/my_portfolio/)
 
