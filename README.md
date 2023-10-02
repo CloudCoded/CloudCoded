@@ -8,15 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/olatechcloud" target="blank"><img src="https://img.shields.io/twitter/follow/olatechcloud?logo=twitter&style=for-the-badge" alt="olatechcloud" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS,TailwindCSS,TypeScript**
+- 🌱 I currently work with **ReactJS,TailwindCSS,TypeScript**
 
-- 👨‍💻 [**My Portfolio**](https://cloudcoded.github.io/my_portfolio/)
+- 👨‍💻 [**My Portfolio**](https://my-portfolio-dln.pages.dev/)
 
 - 📝 [**My Articles**](https://cloudcoded.hashnode.dev/)
 
 - 💬 Ask me about **Software Development**
-
-- 📫 How to reach me **abdulazeezakindolapo@gmail.com**
 
 - ⚡ Fun fact **I love walking early in the morning and late in the night.**
 
